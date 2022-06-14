@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Section header start*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +59,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*Section header end*/
 
+
+/*Section content start*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -119,6 +123,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Section content end*/
+
 
 .footer {
     padding: 30px;
